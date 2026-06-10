@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hyrax.aternos.host",
+    "ip": " guerza.aternos.host",
     "port":  11731,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
