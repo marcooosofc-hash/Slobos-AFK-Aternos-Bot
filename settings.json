@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "guerza.aternos.host",
-    "port":  11731,
+    "ip": "Tenebris-y41r.aternos.me",
+    "port":  25565,
     "version": "1.21.1",
     "try-creative": false
   },
