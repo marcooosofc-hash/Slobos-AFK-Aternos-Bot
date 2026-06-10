@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hyrax.aternos.host:11731",
+    "ip": "hyrax.aternos.host",
     "port":  11731,
     "version": "",
     "try-creative": false
